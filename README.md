@@ -1,1 +1,1 @@
-# bubble-game
+Bubble game with localStorage
